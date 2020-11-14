@@ -1,0 +1,10 @@
+github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
+github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
+github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
+github.com/vault-thirteen/errorz v1.0.0 h1:txP8x+o5ssNSNtbJZW9xAMYCGpUKP4MiO+JTgIN3ors=
+github.com/vault-thirteen/errorz v1.0.0/go.mod h1:DWg8DxEzQCuqXS2juyJKLAj+uxE3Jxl00rPKqa7fqoA=
+github.com/vault-thirteen/file v0.2.0 h1:hcunTUw70N2zPqvS6Prsy1U04dSwv2fy7M7Wh14U7nE=
+github.com/vault-thirteen/file v0.2.0/go.mod h1:38fQfgxOle0is/J0JCFx6Q1ryFWNEsRa863JAnopugA=
+github.com/vault-thirteen/reader v0.1.0 h1:Pgyj839vIS5ee4gUgTsnhUH7Pw286opA5OsHCbMHybs=
+github.com/vault-thirteen/reader v0.1.0/go.mod h1:0NRolf0kif1yfLxCemCEv0rCoJvPRytr2DMB0+VWEkU=
+github.com/vault-thirteen/tester v1.0.0/go.mod h1:kAnv2ZqYE8t5prs3zUThX/Zwh+eSArPigSHOW9DG58k=
